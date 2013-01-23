@@ -88,36 +88,6 @@ Open online education should inspire the unexpected, experimentation, and questi
 
 * * *
 
-DATE:  January 25, 2013
-
-SIGNATURES:  
-
-John Seely Brown, University of Southern California and Deloitte Center for the Edge
-
-Betsy Corcoran, Co-founder, CEO, EdSurge (edsurge.com)
-
-Cathy N. Davidson, Distinguished Professor of English and Interdisciplinary Studies, Co-Director PhD Lab in Digital Knowledge, Duke University, and cofounder Humanities, Arts, Science, and Technology Advanced Collaboratory (hastac.org)
-
-Petra Dierkes-Thrun, Lecturer in Comparative Literature, Stanford University; blogs about literature and digital pedagogy at literatureilluminations.org
-
-Todd Edebohls, CEO of careers and education service Inside Jobs (insidejobs.com)
-
-Mark J. Gierl, Professor of Educational Psychology, Canada Research Chair in Educational Measurement, and Director, Centre for Research in Applied Measurement and Evaluation, University of Alberta, Canada
-
-Sean Michael Morris, Educational Outreach for Hybrid Pedagogy (hybridpedagogy.com) and Part-time Faculty in the English and Digital Humanities Program at Marylhurst University in Portland, OR
-
-(Jan) Philipp Schmidt, Peer 2 Peer University (P2PU, p2pu.org) and MIT Media Lab Director’s Fellow
-
-Bonnie Stewart, Ph.D candidate and Sessional Lecturer, Faculty of Education, University of Prince Edward Island, Canada
-
-Jesse Stommel, Director of Hybrid Pedagogy (hybridpedagogy.com) and Director of English and Digital Humanities at Marylhurst University in Portland, OR
-
-Sebastian Thrun, CEO of Udacity (udacity.com), Google Fellow and Research Professor in Computer Science, Stanford University
-
-Audrey Watters, Writer, Hack Education (hackeducation.com)
-
-* * *
-
 Invitation:
 
 To join the discussion, visit one of the many platforms where this Bill of Rights and Principles is being published and blogged about (each of us, and each of the platforms, will likely create a different sort of engagement).  We invite further discussion, hacking, and forking of this document.  On Twitter, please use the hashtag #learnersrights when you share your versions and responses.  Finally, and most importantly, this document can’t be complete (can never be complete) without continuous and dynamic contributions and revising by students.  We invite students everywhere to read this beginning, to talk about it, to add to it.  
