@@ -1,6 +1,6 @@
-##A Bill of Rights and Principles for Learning in the Digital Age##
+#A Bill of Rights and Principles for Learning in the Digital Age#
 
-#Preamble#
+##Preamble##
 
 
 Work on this Bill of Rights & Principles began in Palo Alto, California, on December 14, 2012. We convened a group of people passionate about learning, about serving today's students, and about using every tool we could imagine to respond better to the needs of students in a global, interactive, digitally connected world.  
@@ -25,13 +25,13 @@ Our broad goal is to inspire an open, learner-centered dialogue around the right
 
 We believe that our culture is increasingly one in which learning, unlearning and relearning are as fundamental to our survival and prosperity as breathing. To that end, we believe that all students have inalienable rights which transfer to new and emerging digital environments. They include:
 
-#The right to access#
+##The right to access##
 Everyone should have the right to learn: traditional students, non-traditional students, adults, children, and teachers, independent of age, gender, race, social status, sexual orientation, economic status, national origin, bodily ability, and environment anywhere and everywhere in the world. To ensure the right to access, learning should be affordable and available, offered in myriad formats, to students located in a specific place and students working remotely, adapting itself to people’s different lifestyles, mobility needs, and schedules.  Online learning has the potential to ensure that this right is a reality for a greater percentage of the world’s population than has ever been realizable before.
 
-The right to privacy
+##The right to privacy##
 Student privacy is an inalienable right regardless of whether learning takes place in a brick-and-mortar institution or online.  Students have a right to know how data collected about their participation in the online system will be used by the organization and made available to others.  The provider should offer clear explanations of the privacy implications of students' choices.  
 
-The right to create public knowledge  
+##The right to create public knowledge## 
 Learners within a global, digital commons have the right to work, network, and contribute to knowledge in public; to share their ideas and their learning in visible and connected ways if they so choose.  Courses should encourage open participation and meaningful engagement with real audiences where possible, including peers and the broader public.
 
 The right to own one’s personal data and intellectual property
