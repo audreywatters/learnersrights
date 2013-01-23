@@ -87,9 +87,3 @@ Courses should encourage interaction and collaboration between students wherever
 Open online education should inspire the unexpected, experimentation, and questioning--in other words, encourage play. Play allows us to make new things familiar, to perfect new skills, to experiment with moves and crucially to embrace change--a key disposition for succeeding in the 21st century.  We must cultivate the imagination and the dispositions of questing, tinkering and connecting.  We must remember that the best learning, above all, imparts the gift of curiosity, the wonder of accomplishment, and the passion to know and learn even more.  
 
 * * *
-
-Invitation:
-
-To join the discussion, visit one of the many platforms where this Bill of Rights and Principles is being published and blogged about (each of us, and each of the platforms, will likely create a different sort of engagement).  We invite further discussion, hacking, and forking of this document.  On Twitter, please use the hashtag #learnersrights when you share your versions and responses.  Finally, and most importantly, this document can’t be complete (can never be complete) without continuous and dynamic contributions and revising by students.  We invite students everywhere to read this beginning, to talk about it, to add to it.  
-
-Additional resources:  We have not included reading resources here but invite you to add the ones most meaningful to you in the public, crowd-sourced version of the Bill of Rights and Principles for Learning in the Digital Age. Collective contribution is the principle we espouse in this document.  We look forward to your participation.
