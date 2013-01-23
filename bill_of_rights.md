@@ -1,6 +1,6 @@
 ##A Bill of Rights and Principles for Learning in the Digital Age##
 
-Preamble
+#Preamble#
 
 
 Work on this Bill of Rights & Principles began in Palo Alto, California, on December 14, 2012. We convened a group of people passionate about learning, about serving today's students, and about using every tool we could imagine to respond better to the needs of students in a global, interactive, digitally connected world.  
@@ -21,11 +21,11 @@ We also recognize some broader hopes and aspirations for the best online learnin
 
 Our broad goal is to inspire an open, learner-centered dialogue around the rights, responsibilities, and possibilities for education in the globally-connected world of the present and beyond.
 
-I.  Bill of Rights
+##I.  Bill of Rights##
 
 We believe that our culture is increasingly one in which learning, unlearning and relearning are as fundamental to our survival and prosperity as breathing. To that end, we believe that all students have inalienable rights which transfer to new and emerging digital environments. They include:
 
-The right to access
+#The right to access#
 Everyone should have the right to learn: traditional students, non-traditional students, adults, children, and teachers, independent of age, gender, race, social status, sexual orientation, economic status, national origin, bodily ability, and environment anywhere and everywhere in the world. To ensure the right to access, learning should be affordable and available, offered in myriad formats, to students located in a specific place and students working remotely, adapting itself to people’s different lifestyles, mobility needs, and schedules.  Online learning has the potential to ensure that this right is a reality for a greater percentage of the world’s population than has ever been realizable before.
 
 The right to privacy
