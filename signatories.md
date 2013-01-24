@@ -17,3 +17,6 @@ Bonnie Stewart, Ph.D candidate and Sessional Lecturer, Faculty of Education, Uni
 Jesse Stommel, Director of Hybrid Pedagogy (hybridpedagogy.com) and Director of English and Digital Humanities at Marylhurst University in Portland, OR
 Sebastian Thrun, CEO of Udacity (udacity.com), Google Fellow and Research Professor in Computer Science, Stanford University
 Audrey Watters, Writer, Hack Education (hackeducation.com)
+
+OTHER SIGNATURES:
+Roger Whitson, Assistant Professor of English at Washington State University
